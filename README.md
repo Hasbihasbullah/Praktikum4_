@@ -2,7 +2,7 @@
 praktikum4_Pertemuan7(polimorfisme)
 
 Gitbash here_
-![Screenshot (97)](https://user-images.githubusercontent.com/92858927/200195556-e65f8797-b0ce-40a6-b4ec-85ad13572c08.png)
+![Screenshot (98)](https://user-images.githubusercontent.com/92858927/200195755-862214de-9e8d-47f6-894f-e75ef2e10e0b.png)
 
 
 Implementasikan java code diagram class berikut :
