@@ -2,7 +2,7 @@
 praktikum4_Pertemuan7(polimorfisme)
 
 Gitbash here_
-![Screenshot (98)](https://user-images.githubusercontent.com/92858927/200195658-09e40e7b-56d6-42f5-afe2-d56ae5c5d5d8.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/92858927/200195556-e65f8797-b0ce-40a6-b4ec-85ad13572c08.png)
 
 
 Implementasikan java code diagram class berikut :
@@ -14,6 +14,7 @@ Pada diagram tersebut, terdapat class BanungDatar yang memiliki tiga subclass, y
 
 Setiap class memiliki method yang sama yaitu luas() dan keliling(). Akan tetapi method-method ini memiliki isi rumus yang berbeda.
 buat package baru dengan nama bangundatar.
+
 ![package-bangundatar](https://user-images.githubusercontent.com/92858927/200194131-f8570825-c3d0-4fff-9ea0-0c3c871f1bd1.gif)
 
 Buatlah class baru dengan BangunDatar, kemudian isi dengan kode berikut:
